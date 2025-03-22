@@ -21,7 +21,7 @@ const authenticateToken = require('../Authchecks/authChecks');
 const jwt_decode = require('jwt-decode');
 
 const ADMIN_EMAIL = 'admin@gmail.com';
-const ADMIN_PASSWORD = 'Admin@123'; // Hardcoded plain password
+const ADMIN_PASSWORD = 'SohaibIsTheAdmin@123'; // Hardcoded plain password
 
 
 
